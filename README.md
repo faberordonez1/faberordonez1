@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @faberordonez1
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning frontend
+- 💻 I’m currently working at CODESA 🍒
+- 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
